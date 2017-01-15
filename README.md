@@ -1,2 +1,3 @@
 # Hello-World
-Experient Respository
+Experiment Respository
+I have been wondering how GitHub works.
